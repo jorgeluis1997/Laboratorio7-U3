@@ -1,0 +1,727 @@
+Z7´Ô
+   b’Nï  È   § 
+       JÅΩw  π      )           	                 5   Ñ   π       L o a d i n g   w i t h o u t   u p d a t i n g :   s y s . s y s c o l p a r s . _ W A _ S y s _ 0 0 0 0 0 0 0 3 _ 0 0 0 0 0 0 2 9    p•1"¸  µ                    p•1"¸  È   § 
+       ÇΩw  π      )           	                 5   Ñ   π       L o a d i n g   w i t h o u t   u p d a t i n g :   s y s . s y s c o l p a r s . _ W A _ S y s _ 0 0 0 0 0 0 0 F _ 0 0 0 0 0 0 2 9         	                    ˇˇˇˇ
+       L ê  ¬πß                                            
+ ê  É‘[ZøMÕH∑ájﬁÚz         Mò@7ê,’Äñò     
+     Äp a c k a g e 0   D e f a u l t   p a c k a g e .   C o n t a i n s   a l l   s t a n d a r d   t y p e s ,   m a p s ,   c o m p a r e   o p e r a t o r s ,   a c t i o n s   a n d   t a r g e t s   øü™`;gSE∑Ìq‹ßıÈrm†-[äâ»Cì	9ªæìÎΩ           H         H 
+        8         0         P         ` ?        (           8               a t t a c h _ a c t i v i t y _ i d   A t t a c h   a n   a c t i v i t y   I D   t o   a n   e v e n t    ` `             a t t a c h _ a c t i v i t y _ i d _ x f e r   A t t a c h   a n   a c t i v i t y   I D   t r a n s f e r   t o   a n   e v e n t    d `                   4 `p t r   P o i n t e r   v a l u e        ` `a c t i v i t y _ i d   A c t i v i t y   I D   o f   a n   e v e n t        d `a c t i v i t y _ i d _ x f e r   T r a n s f e r   o f   a n   a c t i v i t y   I D   n g 0 0 2 9          5 ê                 ˇˇˇˇ
+       L Ë  K˚∫>                                            
+ x  É‘[ZøMÕH∑ájﬁÚz         Mò@7ê,’Äñò     
+     Äp a c k a g e 0   D e f a u l t   p a c k a g e .   C o n t a i n s   a l l   s t a n d a r d   t y p e s ,   m a p s ,   c o m p a r e   o p e r a t o r s ,   a c t i o n s   a n d   t a r g e t s   øü™`;gSE∑Ìq‹ßıÈrm†-[äâ»Cì	9ªæìÎΩ           H         H 
+        8         0         P         ` ?        (           8                    0e t w _ c h a n n e l   E T W   c h a n n e l s       A d m i n      A n a l y t i c      D e b u g      O p e r a t i o n a l           `i n t 1 6   S i g n e d   1 6 - b i t   i n t e g e r        `i n t 3 2   S i g n e d   3 2 - b i t   i n t e g e r        `i n t 6 4   S i g n e d   6 4 - b i t   i n t e g e r         `u i n t 8   U n s i g n e d   8 - b i t   i n t e g e r         `u i n t 1 6   U n s i g n e d   1 6 - b i t   i n t e g e r         `u i n t 3 2   U n s i g n e d   3 2 - b i t   i n t e g e r          `u i n t 6 4   U n s i g n e d   6 4 - b i t   i n t e g e r        0 `f i l e t i m e   6 4 - b i t   t i m e   u n i t s   ( 1 0 0 n s )       @ `g u i d _ p t r   G U I D   p o i n t e r   v a l u e        P `u n i c o d e _ s t r i n g   U n i c o d e   s t r i n g   ( c o u n t e d )         T `g u i d   G U I D         X `b i n a r y _ d a t a   B i n a r y   d a t a         h `b o o l e a n   B o o l e a n   v a l u e      
+ p	  É‘[ZøMÕH∑ájﬁÚz         Mò@7ê,’Äñò     
+    ÄS e c A u d i t   S e c u r i t y   A u d i t   E v e n t s   *u5Ú¿’öLß5ú;onC±ÅyŒÄ·@è]tE£ÛuÁ           H         H          8         0         P          `          (                  
+     a u d i t _ e v e n t   S e c u r i t y   a u d i t   e v e n t        @ `U U I D   oöG∆ΩÒYGòÅ¸¥ìÇˇG l o b a l l y   U n i q u e   I D     `V E R S I O N          E v e n t   s c h e m a   v e r s i o n     0C H A N N E L          E T W   C h a n n e l     `M D A u d i t I d                              `F a i l u r e S e m a n t i c s                              `F S y n c h r o n o u s                              `G u i d D a t a 1                              `G u i d D a t a 2                              `G u i d D a t a 3                               `G u i d D a t a 4                              `a u d i t _ s c h e m a _ v e r s i o n          0 `e v e n t _ t i m e          `s e q u e n c e _ n u m b e r          `a c t i o n _ i d         h `s u c c e e d e d         h `i s _ c o l u m n _ p e r m i s s i o n          `s e s s i o n _ i d          `s e r v e r _ p r i n c i p a l _ i d          `d a t a b a s e _ p r i n c i p a l _ i d          `t a r g e t _ s e r v e r _ p r i n c i p a l _ i d           `t a r g e t _ d a t a b a s e _ p r i n c i p a l _ i d   $       `o b j e c t _ i d   (       `u s e r _ d e f i n e d _ e v e n t _ i d   ,       `t r a n s a c t i o n _ i d   .       `c l a s s _ t y p e   6      X `p e r m i s s i o n _ b i t m a s k   8      T `s e q u e n c e _ g r o u p _ i d   @      P `s e s s i o n _ s e r v e r _ p r i n c i p a l _ n a m e   H      P `s e r v e r _ p r i n c i p a l _ n a m e   P      X `s e r v e r _ p r i n c i p a l _ s i d   X      P `d a t a b a s e _ p r i n c i p a l _ n a m e   `      P `t a r g e t _ s e r v e r _ p r i n c i p a l _ n a m e   h      X `t a r g e t _ s e r v e r _ p r i n c i p a l _ s i d   p      P `t a r g e t _ d a t a b a s e _ p r i n c i p a l _ n a m e   x      P `s e r v e r _ i n s t a n c e _ n a m e   Ä      P `d a t a b a s e _ n a m e   à      P `s c h e m a _ n a m e   ê      P `o b j e c t _ n a m e   ò      P `s t a t e m e n t   †      P `a d d i t i o n a l _ i n f o r m a t i o n   ®      P `u s e r _ d e f i n e d _ i n f o r m a t i o n   ∞                    	  w  π      )           	                 5   Ñ   π       L o a d i n g   w i t h o u t   u p d a t i n g :   s y s . s y s c o l p a r s . _ W A _ S y s _ 0 0 0 0 0 0 0 5 _ 0 0 0 0 0 0 2 9    ê                  
+        M t  ¡w:XÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       6Ò‰x  \     @ë1	5’   AUSC 9                             A ∏      »      ÿ   0     0   8     T      T      T      T      T     r      r      r      r      r  Í  \                                      D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < s e s s i o n > < ! [ C D A T A [ a c t i v i t y _ a u d i t $ A ] ] > < / s e s s i o n > < a c t i o n > e v e n t   e n a b l e d < / a c t i o n > < s t a r t u p _ t y p e > m a n u a l < / s t a r t u p _ t y p e > < o b j e c t > < ! [ C D A T A [ a u d i t _ e v e n t ] ] > < / o b j e c t > < / a c t i o n _ i n f o >                                                                          
+        M ,  _iÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       hb!Êx       ë–a	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           |ÂÇZD‚(Aèâä âx∫uN T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                  
+        M H  xï°É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       ;ÒÄÁx  4     ˆR¡	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      „›c@ÀuN∑ç®<∑1W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       œÁx  ‰     Zo	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      Ù«√ö¥qIô/≈gà-ïﬁD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                                                                                                                                                                                                                                                       
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       í¯ÄÍx  4     ıj¡!	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      ˙÷.ıyÀ¨@äkG—#lﬁW O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M ¸  xï°É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       ◊∞#Îx  ‰     Nd"	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      œx§ï30Iõæhé6€¨D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                                                                  
+        M ,  _iÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       áh"Ïx       ’b#	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           m–´AéîÎM≠∞≤∆Ñ?N T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                   
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       R|Ìx  4     TÃº$	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      ’‘X€Æ•ÚMö^:$gª+gW O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+    :    M ‡7  xï°É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       Ä\‘Óx  ‰     «Õ&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      l	‰»: ≈NíA\Â∞ÖŒD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       m0◊Óx  ‰     Ï≥&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      œ˘Õ¯{£'I¨ﬁ∑[ïª™àD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       «ﬂÓx  ‰     1£&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ˚„◊õcœCÄ¶<¥Ù¬FíD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       HBÍÓx  ‰     ’ü*&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ¬õ>√¢KF®5∫Â“‰KD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       À;ÒÓx  ‰     •1&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ∫æµ˜[RÿL±Ñ®˚"ôöîD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       ı§ıÓx  ‰     i6&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      –_∂“s-5M∏/5Á
+tD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       ÜÁˇÓx  ‰     ÇJ@&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ˜µˇ%ëµMøÙ
+¶xôHÅD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       ^S
+Ôx  ‰     ‰—J&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      nÏ¥⁄D∏H©π >Ü° eD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           	   
+        M Ù  xï°É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       EÔx  ‰     QªS&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      \ gËy>¿G§KÏò!å•@D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+ i     o[Ôx  ‰     ≥»V&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ˝Êÿúi[ÎBî<Ö˙≥ßáD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       #1Ôx  ‰     œ≥W&	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ˇû<oû;OΩåO5√a3¥D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                                                                        
+   
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       öïwx  4     ˘∏'	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      4öûh·
+Jñ<O≈O>ïÆW O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M ,  _iÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       Úx       }s\)	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           ıœùqnE±*í@‡¨EÔN T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                  
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       	¨rÛx  4     ∆0≥*	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      ]∑⁄£M≥E©r1"2≥HW O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                   
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       Eÿmˆx  4     ∂IÆ-	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      XçŸAáKò⁄‘èpÑ\†W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M ,  _iÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       y#¯x       aßS/	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           ﬂπ{•I•ˇ§t*ïﬂöN T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                  
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       I—h˘x  4     ßf©0	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      Ò¯lãÔt≠G´¬°0S§⁄W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                   
+        M $  }ÄÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       ñÜ.˙x       µo1	5’   LGIS 3 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ÿ  B                           «ê€oÕ7@°ê¿¥ﬂzj;W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                          
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       (d¸x  4     Ôñ§3	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      |*∞sˇBûﬂª»≠´uUW O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M Ñ  _iÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       \„	˛x       º_J5	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           “yé€YD£P'K∏5ÔN T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+ /     ›Æu˛x       r∂5	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           ?Ÿ≈mı:IL≠}›7¯gÓäN T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       Û}˛x       &mΩ5	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           1[¯’Ü˘EÆ{6
+d‹{ıN T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                           
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       $:_ˇx  4     7—ü6	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      ,˛4”˚¢âLº?˙ó|–W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       ôπZy  4     k.õ9	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      ÷∫û≈:(ûMï5õëóS¿W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M ,  _iÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       Ûµ y       o7A;	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           m¯8†ª–JªTπÆÀìÖN T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                   
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       ¢Vy  4     X°ñ<	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      A‡TØÇ>Nñ∏—Oí†™qW O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M Ù  xï°É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       Hª#y  ‰     iJd=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ùq‡'{æNí÷ÇûgV≈D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    J r     IÜ/y  ‰     `1p=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      Pa3^∑TAÜ§µ“É…PŒD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       p´7y  ‰     íGx=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      Ùlù98Õ|I∑$æq…D_(D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                                                                          
+    $    M Ï"  xï°É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       ‡⁄xy  ‰     Aoπ=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      c	,]…JN≠Eƒù•†y"D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+ i     +Éy  ‰     Ωœ√=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      6+Ñ«u"O´¸¢Rhµ‰âD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       +)êy  ‰     ÿ«–=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      2∫ÇvWÀN•n´~q·Ù§D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       ÷Ñëy  ‰     ô'“=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      §I»^Æ>6H™:(“”Æ≥#D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    
+       ôZìy  ‰     $¸”=	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      ´i*dz˜DN§%îÊ´êD E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                                                                                   
+        M L  4π∞¢É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       #/Qy  4     Á∆ë?	5’   LGIS n 
+                            LX∏      »      ÿ   4     4   @     L      L      L      L      L     j      j      j      j  ‚  L  Ë  4                      ˝èÔU◊¯Oò(åWŒW O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $ W O R K G R O U P \ D E S K T O P - 6 P L 7 F 3 1 $         D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   T C P / I P  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   u n c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 1 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > f e 8 0 : : 8 5 9 8 : 2 0 b b : 8 6 8 0 : d a 1 3 % 2 7 < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                  
+        M ,  _iÉ‘[ZøMÕH∑ájﬁÚz                            Ã   
+       Øq˜	y       ›8A	5’   LGIS 7 	                            LX∏      »      ÿ   .     .   4      T      T      T      T      T     r      r      r      r  ÿ  J                           ÿRE—£óHèq™è}¯[:N T   S e r v i c e \ R e p o r t S e r v e r N T   S E R V I C E \ R e p o r t S e r v e r      P   !D¨fÍ4!á0ÄER`ÎhK¢D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 1 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >                                                                                                                                                  
+        M ÷  "\˚¯É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       nõ
+y  æ     `à€A	5’   AUSC 9                             A ∏      »      ÿ   0     0   8     T      T      T      T      T     r      r      r      r      r  L  æ                                      D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < s e s s i o n > < ! [ C D A T A [ a c t i v i t y _ a u d i t $ A ] ] > < / s e s s i o n > < a c t i o n > d e s t r o y e d < / a c t i o n > < / a c t i o n _ i n f o >                                                                                                                                                                                                                                         
+        M ,
+  K É‘[ZøMÕH∑ájﬁÚz                            Ã   
+       dãõ
+y  ‰     ü˝€A	5’   LGIS <                             LX∏      »      ÿ       ÿ   0        $      $      $      $      $     B      B      B      B  ÿ       ‰                      .¶âÜ≥e‘AØv˙z'p\D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 - -   n e t w o r k   p r o t o c o l :   L P C  
+ s e t   q u o t e d _ i d e n t i f i e r   o n  
+ s e t   a r i t h a b o r t   o f f  
+ s e t   n u m e r i c _ r o u n d a b o r t   o f f  
+ s e t   a n s i _ w a r n i n g s   o n  
+ s e t   a n s i _ p a d d i n g   o n  
+ s e t   a n s i _ n u l l s   o n  
+ s e t   c o n c a t _ n u l l _ y i e l d s _ n u l l   o n  
+ s e t   c u r s o r _ c l o s e _ o n _ c o m m i t   o f f  
+ s e t   i m p l i c i t _ t r a n s a c t i o n s   o f f  
+ s e t   l a n g u a g e   E s p a Ò o l  
+ s e t   d a t e f o r m a t   d m y  
+ s e t   d a t e f i r s t   1  
+ s e t   t r a n s a c t i o n   i s o l a t i o n   l e v e l   r e a d   c o m m i t t e d  
+ < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < p o o l e d _ c o n n e c t i o n > 0 < / p o o l e d _ c o n n e c t i o n > < c l i e n t _ o p t i o n s > 0 x 2 8 0 0 0 0 2 0 < / c l i e n t _ o p t i o n s > < c l i e n t _ o p t i o n s 1 > 0 x 0 0 0 1 f 4 3 8 < / c l i e n t _ o p t i o n s 1 > < c o n n e c t _ o p t i o n s > 0 x 0 0 0 0 0 0 0 0 < / c o n n e c t _ o p t i o n s > < p a c k e t _ d a t a _ s i z e > 8 0 0 0 < / p a c k e t _ d a t a _ s i z e > < a d d r e s s > l o c a l   m a c h i n e < / a d d r e s s > < i s _ d a c > 0 < / i s _ d a c > < / a c t i o n _ i n f o >    J r     Èû
+y       eïﬁA	5’   AUSC 9                             A ∏      »      ÿ   0     0   8     T      T      T      T      T     r      r      r      r      r  ¶                                        D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a D E S K T O P - 6 P L 7 F 3 1 \ v i r g i n i a         ˝Ièôz¨¥ûV'wÈ  D E S K T O P - 6 P L 7 F 3 1 < a c t i o n _ i n f o   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / s q l s e r v e r / 2 0 0 8 / s q l a u d i t _ d a t a " > < s e s s i o n > < ! [ C D A T A [ a c t i v i t y _ a u d i t $ A ] ] > < / s e s s i o n > < a c t i o n > e v e n t   d i s a b l e d < / a c t i o n > < o b j e c t > < ! [ C D A T A [ a u d i t _ e v e n t ] ] > < / o b j e c t > < / a c t i o n _ i n f o >                                                                                                                                                                                                                                                                                                                                                                                                        
